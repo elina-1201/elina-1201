@@ -1,5 +1,5 @@
 # :milky_way: Elina Mursalimova
-`Indie Software Creator | Software Engineee | Bsc. in Computer and Information Technology`
+`Indie Software Creator | Software Engineer | Bsc. in Computer and Information Technology`
 
 <p align=justify>
 My interest in creating, programming, and understanding how things work under beneath the surface began back in elementary school, before I even knew what the word "engineer" meant.
