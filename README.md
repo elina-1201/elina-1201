@@ -36,8 +36,9 @@ My love and passion for what I do drives me to be hardworking, organized, and co
 
 ### Back-end:
 <img align="left" alt="NodeJS" title="Node JS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img align="left" alt="DotNet" title="Dot Net" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="NestJS" title="NestJS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
 <img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="DotNet" title="Dot Net" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 
 <br/>
 
@@ -58,4 +59,6 @@ My love and passion for what I do drives me to be hardworking, organized, and co
 <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Swagger" title="Swagger" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+<img align="left" alt="Playwright" title="Playwright" height="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
+
 <br/>
